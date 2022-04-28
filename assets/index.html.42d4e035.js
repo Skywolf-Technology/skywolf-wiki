@@ -1,0 +1,1 @@
+const t={key:"v-1459733d",path:"/bird/",title:"\u8BE6\u7EC6\u9009\u9879",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1649781499e3,contributors:[{name:"pppwaw",email:"pppwaw@pppwaw.top",commits:1}]},filePathRelative:"bird/README.md"};export{t as data};

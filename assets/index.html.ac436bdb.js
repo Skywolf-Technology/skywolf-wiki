@@ -1,0 +1,1 @@
+const t={key:"v-8daa1a0e",path:"/",title:"",lang:"zh-CN",frontmatter:{lang:"zh-CN",home:!0,actions:[{text:"Bird\u5FEB\u901F\u5F00\u59CB",link:"/quickstart/"},{text:"Bird Wiki",link:"/bird/"}]},excerpt:"",headers:[],git:{updatedTime:1649782619e3,contributors:[{name:"pppwaw",email:"pppwaw@pppwaw.top",commits:8}]},filePathRelative:"README.md"};export{t as data};
